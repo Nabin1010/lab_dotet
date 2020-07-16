@@ -1,0 +1,18 @@
+OBJECTIVE:
+To set up various Software  which are  required for us doing this .NET Lab session.
+
+Theory:
+A lab environment is a collection of virtual and physical machines that we can use to develop and test applications.
+A lab environment can contain multiple roles needed to test multi-tiered applications, such as workstations, web servers, and database servers.
+In this lab,We have setup various Software such are Visual Studio Code : It is a  most usable text Editor from where we have easily coding debugging
+and running our code, Sql Server : Microsoft SQL Server is a relational database management system developed by Microsoft. As a database server,
+it is a software product with the primary function of storing and retrieving data as requested by other software applications—which may run 
+either on the same computer or on another computer across a network,Postman:Simplify workflows and create better APIs – faster , a collaboration
+platform for API development.Git Bash:Git Bash is an application for Microsoft Windows environments which provides an emulation layer for a
+Git command line experience.
+
+Group Discussion:
+We are installed required Software such are Visual Studio Code, Postman,GitBash,Sql Server etc.
+
+Conclusion:
+From this lab we are concluded that firstly we are installed required editors and sql server as well as required software. 
